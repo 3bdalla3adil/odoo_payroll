@@ -1,2 +1,2 @@
-# om_work
-odoo modules developed to assist business
+# om_Community
+odoo modules developed as per business requirement
