@@ -1,2 +1,2 @@
-# om_Community
-odoo modules developed as per business requirement
+# om_Payroll
+odoo modules developed for Intergrated Entity organization business requirement
